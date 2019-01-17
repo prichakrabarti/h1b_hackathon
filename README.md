@@ -1,5 +1,6 @@
 # h1b_hackathon
 This is the solution to a Hackathon problem statement provided by GreyAtom
+The Jupyter notebook contains all code used to solve this dataset.
 
 H1B Disclosure Dataset: Predicting the case Status
 

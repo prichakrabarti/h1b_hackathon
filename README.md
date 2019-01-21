@@ -1,10 +1,17 @@
 # h1b_hackathon
+H1B Disclosure Dataset: Predicting the case Status
+
 This is the solution to a Hackathon problem statement provided by GreyAtom
 The Jupyter notebook contains all code used to solve this dataset.
 
-H1B Disclosure Dataset: Predicting the case Status
+This repo containts 3 files
+1. Jupyter notebook- this notebook was used for doing an end to end solution and experimenting with different classifier models. After testing across different models, the Random Forest Classifier was chosen as it gave the highest accuracy.
+2. h1b preprocessing python file - this is the file that was used to preprocess the data to prepare it for model training and testing.
+3. h1b train and test python file -  this was the code for training and testing our Random Forest Classifier. 
+
 
 Problem Statement:
+
 The H-1B Dataset selected for this project contains data from employer’s Labor Condition
 Application and the case certification determinations processed by the Office of Foreign Labor
 Certification (OFLC) where the date of the determination was issued on or after October 1,
